@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Venkatesh-unikaksha
-- 👀 I’m interested in Product Development
+- 👀 I’m interested in Product Development, Architecture Design and building highly scalable Multi-tier Applications.
 - 🌱 I’m currently learning Product Sales and Marketing
 - 💞️ I’m looking to collaborate on Github and Jira
 - 📫 How to reach me - venkatesh.s@codeshastra.com
