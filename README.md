@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Venkatesh-unikaksha
+- 👋 Hi, I’m @Venkatesh
 - 👀 I’m interested in Product Development, Architecture Design and building highly scalable Multi-tier Applications.
 - 🌱 I’m currently learning Product Sales and Marketing
 - 💞️ I’m looking to collaborate on Github and Jira
